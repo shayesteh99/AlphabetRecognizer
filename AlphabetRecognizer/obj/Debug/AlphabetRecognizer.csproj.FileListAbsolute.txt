@@ -1,0 +1,18 @@
+c:/users/shayesteha/documents/visual studio 2012/Projects/AlphabetRecognizer/AlphabetRecognizer/bin/Debug/AlphabetRecognizer.exe.config
+c:/users/shayesteha/documents/visual studio 2012/Projects/AlphabetRecognizer/AlphabetRecognizer/bin/Debug/AlphabetRecognizer.exe
+c:/users/shayesteha/documents/visual studio 2012/Projects/AlphabetRecognizer/AlphabetRecognizer/bin/Debug/AlphabetRecognizer.pdb
+c:/users/shayesteha/documents/visual studio 2012/Projects/AlphabetRecognizer/AlphabetRecognizer/obj/Debug/AlphabetRecognizer.csprojResolveAssemblyReference.cache
+c:/users/shayesteha/documents/visual studio 2012/Projects/AlphabetRecognizer/AlphabetRecognizer/obj/Debug/AlphabetRecognizer.Form1.resources
+c:/users/shayesteha/documents/visual studio 2012/Projects/AlphabetRecognizer/AlphabetRecognizer/obj/Debug/AlphabetRecognizer.Properties.Resources.resources
+c:/users/shayesteha/documents/visual studio 2012/Projects/AlphabetRecognizer/AlphabetRecognizer/obj/Debug/AlphabetRecognizer.csproj.GenerateResource.Cache
+c:/users/shayesteha/documents/visual studio 2012/Projects/AlphabetRecognizer/AlphabetRecognizer/obj/Debug/AlphabetRecognizer.exe
+c:/users/shayesteha/documents/visual studio 2012/Projects/AlphabetRecognizer/AlphabetRecognizer/obj/Debug/AlphabetRecognizer.pdb
+/Users/shayesteh/Documents/AlphabetRecognizer/AlphabetRecognizer/obj/Debug/AlphabetRecognizer.Form1.resources
+/Users/shayesteh/Documents/AlphabetRecognizer/AlphabetRecognizer/obj/Debug/AlphabetRecognizer.Properties.Resources.resources
+/Users/shayesteh/Documents/AlphabetRecognizer/AlphabetRecognizer/obj/Debug/AlphabetRecognizer.csproj.GenerateResource.cache
+/Users/shayesteh/Documents/AlphabetRecognizer/AlphabetRecognizer/obj/Debug/AlphabetRecognizer.exe
+/Users/shayesteh/Documents/AlphabetRecognizer/AlphabetRecognizer/obj/Debug/AlphabetRecognizer.pdb
+/Users/shayesteh/Documents/AlphabetRecognizer/AlphabetRecognizer/bin/Debug/AlphabetRecognizer.exe.config
+/Users/shayesteh/Documents/AlphabetRecognizer/AlphabetRecognizer/bin/Debug/AlphabetRecognizer.exe
+/Users/shayesteh/Documents/AlphabetRecognizer/AlphabetRecognizer/bin/Debug/AlphabetRecognizer.pdb
+/Users/shayesteh/Documents/AlphabetRecognizer/AlphabetRecognizer/obj/Debug/AlphabetRecognizer.csprojAssemblyReference.cache
